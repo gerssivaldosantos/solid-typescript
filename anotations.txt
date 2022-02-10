@@ -1,0 +1,2 @@
+- the abstract class are class that  do'nt can instance her, but i can extend her.
+- 
